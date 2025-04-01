@@ -12,19 +12,9 @@ I’m a student at **Dixie Technical College** studying Software Development. I 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 
----
 
-## 🚀 **Projects**
-| Project | Description | Tools |
-|---------|-------------|-------|
-| **[Terminal Flashcards](https://github.com/treslecheson/flash)** | CLI tool to create Anki flashcards for Vim commands | Python |
-| **[Terminal E-reader](https://github.com/treslecheson/terminal_reader)** | Read books as images in the terminal | Python, Kitty Terminal |
-| **Climbing App (WIP)** | AI-powered climbing hold detection | React Native, PostgreSQL |
-
----
 
 ## 📊 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=treslecheson&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=treslecheson&layout=compact&theme=radical)
 
