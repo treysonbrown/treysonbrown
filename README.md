@@ -27,9 +27,3 @@ I’m a student at **Dixie Technical College** studying Software Development. I 
 
 ---
 
-⭐ **Fun Fact:** I prefer the terminal over GUIs for most tasks!  
-🔧 **Currently Learning:** JavaScript, React, Cloud Infrastructure
-<!---
-treslecheson/treslecheson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
