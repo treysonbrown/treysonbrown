@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Treyson Brown
 
-### **Software Developer | Python Enthusiast | Open-Source Contributor**
+
 I’m a student at **Dixie Technical College** studying Software Development. I love building tools for the terminal, automating workflows, and learning new technologies.
 
 ---
