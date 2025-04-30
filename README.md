@@ -23,7 +23,6 @@ I’m a student at **Dixie Technical College** studying Software Development. I 
 ## 📫 **Connect With Me**
 [![Email](https://img.shields.io/badge/Email-tr3ysonb@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tr3ysonb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Treyson_Brown-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/treyson-brown)
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
 
 ---
 
