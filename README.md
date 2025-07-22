@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Treyson Brown
 
 
-I’m a student at **Dixie Technical College** studying Software Development. I love building tools for the terminal, automating workflows, and learning new technologies.
 
 ---
 
