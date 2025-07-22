@@ -13,11 +13,6 @@
 
 
 
-## 📊 **GitHub Stats**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=treslecheson&layout=compact&theme=radical)
-
----
 
 ## 📫 **Connect With Me**
 [![Email](https://img.shields.io/badge/Email-tr3ysonb@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tr3ysonb@gmail.com)
