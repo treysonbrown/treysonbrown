@@ -18,5 +18,7 @@
 [![Email](https://img.shields.io/badge/Email-tr3ysonb@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tr3ysonb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Treyson_Brown-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/treyson-brown)
 
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
 ---
 
