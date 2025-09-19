@@ -7,10 +7,10 @@
 ## 🛠️ **Skills**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-E34F26?style=flat&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-019733?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-1572B6?style=flat&logo=react&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-019733?style=flat&logo=fastapi&logoColor=white)
 
 
 
